@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uemoowoaja.rocklee.me/sitemap.xml
